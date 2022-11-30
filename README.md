@@ -32,11 +32,8 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+**Hello Microverse** is a project to show you the basic web development.
 
-**[Hello Microverse]** is a project to show you the basic web development.
-
-## 🛠 Built With <a name="html and css codes"></a>
 
 <!-- Features -->
 <!-- LIVE DEMO -->
@@ -54,9 +51,8 @@ Example commands:
 
 ## 👥 Authors <a name="Mohammad Khodadadi"></a>
 
-> Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Mohammad Khodadadi**
 
 - GitHub: [@githubhandle](https://github.com/Mohammad-Khodadadi7)
 
@@ -66,7 +62,6 @@ Example commands:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[linters]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
